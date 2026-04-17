@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ffaea344ec4b4ea3c7b2ad0f228178, type: 3}
+  m_Name: Common Enemy Data Model
+  m_EditorClassIdentifier: 
+  moveSpeed: 3
+  idleTime: 3
+  attackInterval: 0.5

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b67e4eef6e54b549bb4eaf67c8ca07e, type: 3}
+  m_Name: UIConfigData
+  m_EditorClassIdentifier: 
+  description: "UI\u9884\u5236\u4EF6\u9700\u8981\u5173\u95ED\u653E\u7F6E\uFF0C\u9632\u6B62\u5B9E\u4F8B\u5316\u540E\u7ACB\u5373\u8C03\u7528OnEnable\u5BFC\u81F4UI\u51FD\u6570\u7684\u8C03\u7528\u65F6\u673A\u51FA\u73B0\u95EE\u9898\uFF01"
+  mainLoadPath: UI
+  uiName_NameSpace: GCat_Test.Core.UI
+  panelList:
+  - uiName: MainMenuPanel
+    uiType: 0
+    isCache: 1
+  - uiName: PlayerHUD
+    uiType: 0
+    isCache: 0
+  - uiName: GameOverPanel
+    uiType: 0
+    isCache: 0
+  windowList:
+  - uiName: StoryDisplayWindow
+    uiType: 1
+    isCache: 0
+  - uiName: SettingWindow
+    uiType: 1
+    isCache: 0
+  popupWindowList: []
